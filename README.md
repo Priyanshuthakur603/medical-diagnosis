@@ -1,2 +1,2 @@
 # medical-diagnosis
-software engineering mini project .
+software engineering mini Project.
