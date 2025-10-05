@@ -1,2 +1,2 @@
 # medical-diagnosis
-%th semester Software Engineering Mini Project.
+5th semester Software Engineering Mini Project.
