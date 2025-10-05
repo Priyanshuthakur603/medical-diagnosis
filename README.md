@@ -1,2 +1,2 @@
 # medical-diagnosis
-software engineering mini Project.
+%th semester Software Engineering Mini Project.
